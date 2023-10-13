@@ -11,6 +11,6 @@ The Resume Builder Project is a web application that allows users to create and 
  5. Once you've completed entering your information, the final resume is ready and can be downloaded in PDF with a single click.
 
  # Technologies Used
- HTML
- CSS
- VANILA JS
+ HTML-
+ CSS-
+ VANILLA JS
